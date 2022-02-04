@@ -1,8 +1,8 @@
 # java-design-patterns
-Java code for al the design 
+Java code for al the design patterns:
 
-Structural Design Patterns
+* Structural Design Patterns
 
-Creational Design Patterns
+* Creational Design Patterns
 
-Behavioral Design Patterns
+* Behavioral Design Patterns
